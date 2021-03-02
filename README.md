@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](./twitter_gif.gif)
+![](./twitter1.gif)
 
